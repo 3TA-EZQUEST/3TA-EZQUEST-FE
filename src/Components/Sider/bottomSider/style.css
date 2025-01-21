@@ -1,0 +1,14 @@
+.notification {
+  background-color: #FFFFFF;
+  border-radius: 10px;
+  height: 160px;
+  width: 220px;
+}
+.icon {
+  background-color: #f1f5f9;
+  height: auto;
+  width: auto;
+  font-size: large;
+  border-radius: 50px;
+  padding: 10px;
+}

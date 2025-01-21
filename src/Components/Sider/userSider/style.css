@@ -1,0 +1,8 @@
+.custom-dropdown .ant-dropdown-menu-item {
+  font-size: 16px !important;
+  padding: 10px 21px !important;
+}
+
+.custom-dropdown .ant-dropdown-menu-item-icon {
+  font-size: 18px !important;
+}

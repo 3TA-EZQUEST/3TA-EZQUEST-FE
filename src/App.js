@@ -1,9 +1,10 @@
 import React from "react";
+import MainPage from "./Pages/Main/index";
 
 function App() {
   return (
     <React.Fragment>
-      <h1>hello world</h1>
+      <MainPage />
     </React.Fragment>
   );
 }

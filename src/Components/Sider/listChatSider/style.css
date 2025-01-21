@@ -1,0 +1,28 @@
+.ant-menu {
+  background-color: #f8fafc;
+  width: 250px;
+}
+
+.ant-menu-item {
+  background-color: #f8fafc;
+}
+
+.ant-menu-item-selected {
+  background-color: #eef2ff !important;
+  color: black !important;
+}
+.menu-item {
+  position: relative;
+  padding: 10px 20px;
+  transition: background-color 0.1s ease;
+}
+
+.highlight-bar {
+  position: absolute;
+  left: 252px;
+  width: 4px;
+  height: 40px;
+  background-color: #4f46e5; /* Màu của khối nhỏ */
+  transition: top 0.3s ease;
+  top: 0px;
+}

@@ -26,7 +26,7 @@ git clone https://github.com/3TA-EZQUEST/3TA-EZQUEST-FE.git
 ```
 
 ```
-cd projectT
+cd 3TA-EZQUEST-FE
 ```
 
 ```
